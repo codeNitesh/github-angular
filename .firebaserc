@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "github-search-27af5": {
+      "hosting": {
+        "github-login-firebase": [
+          "github-search-27af5"
+        ]
+      }
+    }
+  }
+}
